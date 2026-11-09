@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "pdf_pages": 9,
+  "slides": 12,
+  "main_slides": 10,
+  "planned_speaking_seconds": 540,
+  "checks": [
+    "Vietnamese names present",
+    "Measured values present",
+    "PowerPoint shapes inside slide bounds",
+    "Speaker notes in all main slides",
+    "DOCX/PPTX archive integrity",
+    "Five report figures present"
+  ]
+}
