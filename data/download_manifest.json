@@ -1,0 +1,314 @@
+{
+  "dataset": "ds004621",
+  "source": "https://s3.amazonaws.com/openneuro.org/ds004621/",
+  "files": [
+    {
+      "file": "README",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004621/README",
+      "bytes": 1920,
+      "sha256": "94551f42cf59335257d46d03e9a137fe1da92c9a3b3a69b087e31c9530ece8ea",
+      "etag": "\"7c32cc2c6fc85bc5255ecab4b402da7e\""
+    },
+    {
+      "file": "dataset_description.json",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004621/dataset_description.json",
+      "bytes": 1316,
+      "sha256": "12a9a66ebdb8b78bd79e3f33c8ad9dd14a93e9fa4a01eb0135790a18f390ce89",
+      "etag": "\"21198a9438bcce760fc3e085d6da567c\""
+    },
+    {
+      "file": "task-oddball_eeg.json",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004621/task-oddball_eeg.json",
+      "bytes": 1024,
+      "sha256": "532f1ae5ef3ac3e2affb0342b03122158112f0780da09dbbac01c3c0a3d2a674",
+      "etag": "\"d37863f59f528361f26bcc35a82ff9b2\""
+    },
+    {
+      "file": "task-oddball_events.json",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004621/task-oddball_events.json",
+      "bytes": 657,
+      "sha256": "b17d9e1dc779d1052617c5edcd141c63514f0d72b919fa174391e4825d623c2e",
+      "etag": "\"c8020575382442a02722503de2c8fe03\""
+    },
+    {
+      "file": "sub-01/eeg/sub-01_task-oddball_eeg.vhdr",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004621/sub-01/eeg/sub-01_task-oddball_eeg.vhdr",
+      "bytes": 2464,
+      "sha256": "e5d4aea1232a0847e4ef7dcdd4a9f02ac2d1f2958c6fbe13ed62bad4ab3514e9",
+      "etag": "\"f762913e58041f26354a12791b01c67e\""
+    },
+    {
+      "file": "sub-01/eeg/sub-01_task-oddball_eeg.vmrk",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004621/sub-01/eeg/sub-01_task-oddball_eeg.vmrk",
+      "bytes": 26161,
+      "sha256": "458ad42dc665574136860507dc80aa4ca0c72c95483346e9f84d8e5ee3ed3955",
+      "etag": "\"1d7403c0349a6c53d958b2950ac217b7\""
+    },
+    {
+      "file": "sub-01/eeg/sub-01_task-oddball_eeg.eeg",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004621/sub-01/eeg/sub-01_task-oddball_eeg.eeg",
+      "bytes": 696630560,
+      "sha256": "3342d7cc8cf0b7465ff357bda1fb276022fbc48eb5de28348224b0e38ea5c9ef",
+      "etag": "\"e0c6f257085f4178133fe6d8acf36b2c\""
+    },
+    {
+      "file": "sub-01/eeg/sub-01_task-oddball_events.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004621/sub-01/eeg/sub-01_task-oddball_events.tsv",
+      "bytes": 20944,
+      "sha256": "bb02dcebac9da2cbdadb37c5ad99301f5d54aeab14e5d3cadc9c8ef777555c2d",
+      "etag": "\"26556d1d371007854057b5b256219240\""
+    },
+    {
+      "file": "sub-01/eeg/sub-01_task-oddball_channels.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004621/sub-01/eeg/sub-01_task-oddball_channels.tsv",
+      "bytes": 1641,
+      "sha256": "cbfc4bad372ada216a405130f32dd3883f6c35ef03b4f412039959b50a0d4ce0",
+      "etag": "\"902be1ad53c722658cadd39024e40d4f\""
+    },
+    {
+      "file": "sub-03/eeg/sub-03_task-oddball_eeg.vhdr",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004621/sub-03/eeg/sub-03_task-oddball_eeg.vhdr",
+      "bytes": 2464,
+      "sha256": "af47656b6217c077658c350c0dfcfeda8ebc80f970cb38ba0d3edfc1ac12cbac",
+      "etag": "\"2ada9e546326b2672926bc6914ee5c71\""
+    },
+    {
+      "file": "sub-03/eeg/sub-03_task-oddball_eeg.vmrk",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004621/sub-03/eeg/sub-03_task-oddball_eeg.vmrk",
+      "bytes": 25654,
+      "sha256": "433a8320dec309ff241607eff5cb1447abf80021f03affcdf7600499150bbb7e",
+      "etag": "\"e9e2e4f28f7fc0ceb4c164f301eef72a\""
+    },
+    {
+      "file": "sub-03/eeg/sub-03_task-oddball_eeg.eeg",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004621/sub-03/eeg/sub-03_task-oddball_eeg.eeg",
+      "bytes": 675233600,
+      "sha256": "5d6eae1c1ea7a42dc9cd20e5750368ffc8336079184ba250ba0bb23b58021172",
+      "etag": "\"0c7563e5e3407f5ca3882679aeb88cfe\""
+    },
+    {
+      "file": "sub-03/eeg/sub-03_task-oddball_events.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004621/sub-03/eeg/sub-03_task-oddball_events.tsv",
+      "bytes": 20525,
+      "sha256": "623f7352f5574a94080d0ce79b11b75d4b0d0e8cb9320d5713c5d085ac5a4faf",
+      "etag": "\"a8fe4dd4b2ab55c1aaeb1cffac97ca89\""
+    },
+    {
+      "file": "sub-03/eeg/sub-03_task-oddball_channels.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004621/sub-03/eeg/sub-03_task-oddball_channels.tsv",
+      "bytes": 1641,
+      "sha256": "cbfc4bad372ada216a405130f32dd3883f6c35ef03b4f412039959b50a0d4ce0",
+      "etag": "\"902be1ad53c722658cadd39024e40d4f\""
+    },
+    {
+      "file": "sub-04/eeg/sub-04_task-oddball_eeg.vhdr",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004621/sub-04/eeg/sub-04_task-oddball_eeg.vhdr",
+      "bytes": 2464,
+      "sha256": "81563d117dfbd41396d807abf636eac17dd170d76220eee061618504552b2410",
+      "etag": "\"5512f2669a44c0faa0026da49a914349\""
+    },
+    {
+      "file": "sub-04/eeg/sub-04_task-oddball_eeg.vmrk",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004621/sub-04/eeg/sub-04_task-oddball_eeg.vmrk",
+      "bytes": 25428,
+      "sha256": "1f0f5b1ab004635c3d4ebdc47ab84d6d353ba6a77eed88871e0ecad2deab8a44",
+      "etag": "\"0c6c1efc541cd8f45f19f1a7cf782c47\""
+    },
+    {
+      "file": "sub-04/eeg/sub-04_task-oddball_eeg.eeg",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004621/sub-04/eeg/sub-04_task-oddball_eeg.eeg",
+      "bytes": 673668960,
+      "sha256": "8b122f9a3d277f58cd46ead6c8e545e5de2daa1ecb42e345f421dd0aa897828b",
+      "etag": "\"04ff80c0db6b071ea09d36d0f3fc71cc\""
+    },
+    {
+      "file": "sub-04/eeg/sub-04_task-oddball_events.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004621/sub-04/eeg/sub-04_task-oddball_events.tsv",
+      "bytes": 20348,
+      "sha256": "3e4ae89cafd08f701a5eafb190d1816b8048c1c30c4b20df60245225c967c0ce",
+      "etag": "\"8ac2ad9f2ef5f7bc4df5dfb8c4d7b411\""
+    },
+    {
+      "file": "sub-04/eeg/sub-04_task-oddball_channels.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004621/sub-04/eeg/sub-04_task-oddball_channels.tsv",
+      "bytes": 1641,
+      "sha256": "cbfc4bad372ada216a405130f32dd3883f6c35ef03b4f412039959b50a0d4ce0",
+      "etag": "\"902be1ad53c722658cadd39024e40d4f\""
+    },
+    {
+      "file": "sub-05/eeg/sub-05_task-oddball_eeg.vhdr",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004621/sub-05/eeg/sub-05_task-oddball_eeg.vhdr",
+      "bytes": 2464,
+      "sha256": "6729be7ce62d2380851b51224cb267de518d2d487b01fc0318cbfc16969bc5b2",
+      "etag": "\"26d8647858af07a5106189215197595e\""
+    },
+    {
+      "file": "sub-05/eeg/sub-05_task-oddball_eeg.vmrk",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004621/sub-05/eeg/sub-05_task-oddball_eeg.vmrk",
+      "bytes": 25547,
+      "sha256": "f986f23e2c9802b62445d000c75121423ab8667602ce992ae614d6dc0028c90f",
+      "etag": "\"bcbfe4aff1e5aecaca086ae4aa0ebfab\""
+    },
+    {
+      "file": "sub-05/eeg/sub-05_task-oddball_eeg.eeg",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004621/sub-05/eeg/sub-05_task-oddball_eeg.eeg",
+      "bytes": 672002720,
+      "sha256": "d19125bef16c6f3cb951524e047ace54c0cfeffbf76b534d8917bd30cb886b17",
+      "etag": "\"2944649e876676e3d07052ef331e1826\""
+    },
+    {
+      "file": "sub-05/eeg/sub-05_task-oddball_events.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004621/sub-05/eeg/sub-05_task-oddball_events.tsv",
+      "bytes": 20440,
+      "sha256": "a1a3a42300538a92f7e352b896d6da85eb39b2d3a97f020c70c9a565997b8794",
+      "etag": "\"28f392e091524e55cd7268088494ae76\""
+    },
+    {
+      "file": "sub-05/eeg/sub-05_task-oddball_channels.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004621/sub-05/eeg/sub-05_task-oddball_channels.tsv",
+      "bytes": 1641,
+      "sha256": "cbfc4bad372ada216a405130f32dd3883f6c35ef03b4f412039959b50a0d4ce0",
+      "etag": "\"902be1ad53c722658cadd39024e40d4f\""
+    },
+    {
+      "file": "sub-06/eeg/sub-06_task-oddball_eeg.vhdr",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004621/sub-06/eeg/sub-06_task-oddball_eeg.vhdr",
+      "bytes": 2464,
+      "sha256": "770d67553fca16ff5c66cb7b1b3d41a5c1a40d3f87c16ea23512dceeaa8d42cf",
+      "etag": "\"9dbe927bdd0882399efd00f916199501\""
+    },
+    {
+      "file": "sub-06/eeg/sub-06_task-oddball_eeg.vmrk",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004621/sub-06/eeg/sub-06_task-oddball_eeg.vmrk",
+      "bytes": 25321,
+      "sha256": "4b2863eacdb86598acbb5fe1345df845d919f85212a7ac53cbc7d4b3b5b432b2",
+      "etag": "\"8247be1e9fe5f63f5d1a0d48bf04fd79\""
+    },
+    {
+      "file": "sub-06/eeg/sub-06_task-oddball_eeg.eeg",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004621/sub-06/eeg/sub-06_task-oddball_eeg.eeg",
+      "bytes": 675579040,
+      "sha256": "a5c6281259dd08f7faac14a94d500cee904a75205ccc7d399e6f9ec182fa45ba",
+      "etag": "\"8e0f077fe196d39e2393a8664ba828fe\""
+    },
+    {
+      "file": "sub-06/eeg/sub-06_task-oddball_events.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004621/sub-06/eeg/sub-06_task-oddball_events.tsv",
+      "bytes": 20250,
+      "sha256": "643f77fba382b4951c85bfbf37b63cac8cc69432cdcd82070adf20b82382db1c",
+      "etag": "\"50fbc8d9ef26f0b92a3b854689f16f63\""
+    },
+    {
+      "file": "sub-06/eeg/sub-06_task-oddball_channels.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004621/sub-06/eeg/sub-06_task-oddball_channels.tsv",
+      "bytes": 1641,
+      "sha256": "cbfc4bad372ada216a405130f32dd3883f6c35ef03b4f412039959b50a0d4ce0",
+      "etag": "\"902be1ad53c722658cadd39024e40d4f\""
+    },
+    {
+      "file": "sub-07/eeg/sub-07_task-oddball_eeg.vhdr",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004621/sub-07/eeg/sub-07_task-oddball_eeg.vhdr",
+      "bytes": 2464,
+      "sha256": "a202ac07d7c73ae46d2955e2b03a475ae568ac37a4624da8fcf7d0d8a2a4c5ac",
+      "etag": "\"d17c506ea391a34499378c756f3da9b3\""
+    },
+    {
+      "file": "sub-07/eeg/sub-07_task-oddball_eeg.vmrk",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004621/sub-07/eeg/sub-07_task-oddball_eeg.vmrk",
+      "bytes": 25214,
+      "sha256": "2f2a0d0bd9b34f8e3ff20d7377db5019282728884f7978a9cdb9b18120bf0bea",
+      "etag": "\"b916528c14aa04c9493412ba531e9f44\""
+    },
+    {
+      "file": "sub-07/eeg/sub-07_task-oddball_eeg.eeg",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004621/sub-07/eeg/sub-07_task-oddball_eeg.eeg",
+      "bytes": 681878240,
+      "sha256": "bd5ac67ac649cccd04dfc6caba69cbae287668fb89d9b2a2a7884ae7e435963f",
+      "etag": "\"7042eed5dbd58ffa80edc30f4221d7c4\""
+    },
+    {
+      "file": "sub-07/eeg/sub-07_task-oddball_events.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004621/sub-07/eeg/sub-07_task-oddball_events.tsv",
+      "bytes": 20158,
+      "sha256": "695f8812dba364b8705a1070773285ccb602aedd6cf6f1606a855a0b423c018c",
+      "etag": "\"98415dc8ad3b7450809b853381fc02f9\""
+    },
+    {
+      "file": "sub-07/eeg/sub-07_task-oddball_channels.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004621/sub-07/eeg/sub-07_task-oddball_channels.tsv",
+      "bytes": 1641,
+      "sha256": "cbfc4bad372ada216a405130f32dd3883f6c35ef03b4f412039959b50a0d4ce0",
+      "etag": "\"902be1ad53c722658cadd39024e40d4f\""
+    },
+    {
+      "file": "sub-08/eeg/sub-08_task-oddball_eeg.vhdr",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004621/sub-08/eeg/sub-08_task-oddball_eeg.vhdr",
+      "bytes": 2464,
+      "sha256": "bec1704dce7e145511c5243a8986760fafad9387b2221cdc6569909cc30ea365",
+      "etag": "\"d7b3aab0a41b47ff5d4161739e58178b\""
+    },
+    {
+      "file": "sub-08/eeg/sub-08_task-oddball_eeg.vmrk",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004621/sub-08/eeg/sub-08_task-oddball_eeg.vmrk",
+      "bytes": 25414,
+      "sha256": "b22ddeed1fb7d3986b6cbf5d5ca658c6b6879091f2b9e35732f454cb4bee6b1f",
+      "etag": "\"c746c0eb3dd1f8e43c1e3f37fd0a18fc\""
+    },
+    {
+      "file": "sub-08/eeg/sub-08_task-oddball_eeg.eeg",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004621/sub-08/eeg/sub-08_task-oddball_eeg.eeg",
+      "bytes": 860988880,
+      "sha256": "8230d5cb3563da5d4a7cedffba4acf93f47455099b212ccf05054817984e0d81",
+      "etag": "\"207afbe48642a5744a28d6a5cd7e23d6\""
+    },
+    {
+      "file": "sub-08/eeg/sub-08_task-oddball_events.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004621/sub-08/eeg/sub-08_task-oddball_events.tsv",
+      "bytes": 20322,
+      "sha256": "31790ed47de57d1b6e2f9309465a9b74885ef59f15faea310b8483275486c77f",
+      "etag": "\"46511d0afd95ffc4c7e7f4fb00237095\""
+    },
+    {
+      "file": "sub-08/eeg/sub-08_task-oddball_channels.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004621/sub-08/eeg/sub-08_task-oddball_channels.tsv",
+      "bytes": 1641,
+      "sha256": "cbfc4bad372ada216a405130f32dd3883f6c35ef03b4f412039959b50a0d4ce0",
+      "etag": "\"902be1ad53c722658cadd39024e40d4f\""
+    },
+    {
+      "file": "sub-09/eeg/sub-09_task-oddball_eeg.vhdr",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004621/sub-09/eeg/sub-09_task-oddball_eeg.vhdr",
+      "bytes": 2464,
+      "sha256": "29c1bf144bc3d0ab22d48b2f9bb082ed554a828fdb737de1537afd9fa1e59f95",
+      "etag": "\"becedb86c9e52de6e708f7d0c183a382\""
+    },
+    {
+      "file": "sub-09/eeg/sub-09_task-oddball_eeg.vmrk",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004621/sub-09/eeg/sub-09_task-oddball_eeg.vmrk",
+      "bytes": 25183,
+      "sha256": "2cb5419e49a23047aa54c0bc850dca046c1d6c61f5c388630a4af9c3e51bd151",
+      "etag": "\"354b8d7cb989466bc28c1f21c979519d\""
+    },
+    {
+      "file": "sub-09/eeg/sub-09_task-oddball_eeg.eeg",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004621/sub-09/eeg/sub-09_task-oddball_eeg.eeg",
+      "bytes": 673679120,
+      "sha256": "d4220bfe76e037e98cc4a321e7210d357ef69336a26b8bd6d391df4d1941d5ed",
+      "etag": "\"36e1a3e7c33809b9cdd69886c852b26a\""
+    },
+    {
+      "file": "sub-09/eeg/sub-09_task-oddball_events.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004621/sub-09/eeg/sub-09_task-oddball_events.tsv",
+      "bytes": 20138,
+      "sha256": "9474d7915b4c376c9b7762586116747c4a6f063a34bda3dfafd2525bd7e54b8e",
+      "etag": "\"484b955b225afda95c012541b11f7b2a\""
+    },
+    {
+      "file": "sub-09/eeg/sub-09_task-oddball_channels.tsv",
+      "url": "https://s3.amazonaws.com/openneuro.org/ds004621/sub-09/eeg/sub-09_task-oddball_channels.tsv",
+      "bytes": 1641,
+      "sha256": "cbfc4bad372ada216a405130f32dd3883f6c35ef03b4f412039959b50a0d4ce0",
+      "etag": "\"902be1ad53c722658cadd39024e40d4f\""
+    }
+  ]
+}

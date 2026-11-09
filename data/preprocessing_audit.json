@@ -1,0 +1,186 @@
+[
+  {
+    "subject": "sub-01",
+    "before": {
+      "standard": 498,
+      "target": 81
+    },
+    "after": {
+      "standard": 497,
+      "target": 81
+    },
+    "dropped": 1,
+    "source_duration_s": 1371.319,
+    "event_map": {
+      "New Segment/": 99999,
+      "Stimulus/S  1": 1,
+      "Stimulus/S  5": 5,
+      "Stimulus/S  6": 6,
+      "Stimulus/S  7": 7,
+      "Stimulus/S 10": 10,
+      "Stimulus/S 12": 12,
+      "Time 0/": 10001
+    }
+  },
+  {
+    "subject": "sub-03",
+    "before": {
+      "standard": 498,
+      "target": 81
+    },
+    "after": {
+      "standard": 498,
+      "target": 81
+    },
+    "dropped": 0,
+    "source_duration_s": 1329.199,
+    "event_map": {
+      "New Segment/": 99999,
+      "Stimulus/S  1": 1,
+      "Stimulus/S  5": 5,
+      "Stimulus/S  6": 6,
+      "Stimulus/S  7": 7,
+      "Stimulus/S 10": 10,
+      "Stimulus/S 12": 12,
+      "Time 0/": 10001
+    }
+  },
+  {
+    "subject": "sub-04",
+    "before": {
+      "standard": 498,
+      "target": 81
+    },
+    "after": {
+      "standard": 498,
+      "target": 81
+    },
+    "dropped": 0,
+    "source_duration_s": 1326.119,
+    "event_map": {
+      "New Segment/": 99999,
+      "Stimulus/S  1": 1,
+      "Stimulus/S  5": 5,
+      "Stimulus/S  6": 6,
+      "Stimulus/S  7": 7,
+      "Stimulus/S 10": 10,
+      "Stimulus/S 12": 12,
+      "Time 0/": 10001
+    }
+  },
+  {
+    "subject": "sub-05",
+    "before": {
+      "standard": 498,
+      "target": 81
+    },
+    "after": {
+      "standard": 498,
+      "target": 81
+    },
+    "dropped": 0,
+    "source_duration_s": 1322.839,
+    "event_map": {
+      "New Segment/": 99999,
+      "Stimulus/S  1": 1,
+      "Stimulus/S  5": 5,
+      "Stimulus/S  6": 6,
+      "Stimulus/S  7": 7,
+      "Stimulus/S 10": 10,
+      "Stimulus/S 12": 12,
+      "Time 0/": 10001
+    }
+  },
+  {
+    "subject": "sub-06",
+    "before": {
+      "standard": 498,
+      "target": 81
+    },
+    "after": {
+      "standard": 494,
+      "target": 81
+    },
+    "dropped": 4,
+    "source_duration_s": 1329.879,
+    "event_map": {
+      "New Segment/": 99999,
+      "Stimulus/S  1": 1,
+      "Stimulus/S  5": 5,
+      "Stimulus/S  6": 6,
+      "Stimulus/S  7": 7,
+      "Stimulus/S 10": 10,
+      "Stimulus/S 12": 12,
+      "Time 0/": 10001
+    }
+  },
+  {
+    "subject": "sub-07",
+    "before": {
+      "standard": 498,
+      "target": 81
+    },
+    "after": {
+      "standard": 423,
+      "target": 72
+    },
+    "dropped": 84,
+    "source_duration_s": 1342.279,
+    "event_map": {
+      "New Segment/": 99999,
+      "Stimulus/S  1": 1,
+      "Stimulus/S  5": 5,
+      "Stimulus/S  6": 6,
+      "Stimulus/S  7": 7,
+      "Stimulus/S 10": 10,
+      "Stimulus/S 12": 12,
+      "Time 0/": 10001
+    }
+  },
+  {
+    "subject": "sub-08",
+    "before": {
+      "standard": 498,
+      "target": 81
+    },
+    "after": {
+      "standard": 498,
+      "target": 81
+    },
+    "dropped": 0,
+    "source_duration_s": 1694.859,
+    "event_map": {
+      "New Segment/": 99999,
+      "Stimulus/S  1": 1,
+      "Stimulus/S  5": 5,
+      "Stimulus/S  6": 6,
+      "Stimulus/S  7": 7,
+      "Stimulus/S 10": 10,
+      "Stimulus/S 12": 12,
+      "Time 0/": 10001
+    }
+  },
+  {
+    "subject": "sub-09",
+    "before": {
+      "standard": 498,
+      "target": 81
+    },
+    "after": {
+      "standard": 498,
+      "target": 81
+    },
+    "dropped": 0,
+    "source_duration_s": 1326.139,
+    "event_map": {
+      "New Segment/": 99999,
+      "Stimulus/S  1": 1,
+      "Stimulus/S  5": 5,
+      "Stimulus/S  6": 6,
+      "Stimulus/S  7": 7,
+      "Stimulus/S 10": 10,
+      "Stimulus/S 12": 12,
+      "Time 0/": 10001
+    }
+  }
+]
