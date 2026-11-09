@@ -1,0 +1,70 @@
+[
+  {
+    "fold": 1,
+    "train": [
+      "sub-05",
+      "sub-06",
+      "sub-07",
+      "sub-08"
+    ],
+    "validation": [
+      "sub-01",
+      "sub-04"
+    ],
+    "test": [
+      "sub-03",
+      "sub-09"
+    ]
+  },
+  {
+    "fold": 2,
+    "train": [
+      "sub-04",
+      "sub-05",
+      "sub-06",
+      "sub-07"
+    ],
+    "validation": [
+      "sub-03",
+      "sub-09"
+    ],
+    "test": [
+      "sub-01",
+      "sub-08"
+    ]
+  },
+  {
+    "fold": 3,
+    "train": [
+      "sub-01",
+      "sub-03",
+      "sub-05",
+      "sub-07"
+    ],
+    "validation": [
+      "sub-08",
+      "sub-09"
+    ],
+    "test": [
+      "sub-04",
+      "sub-06"
+    ]
+  },
+  {
+    "fold": 4,
+    "train": [
+      "sub-01",
+      "sub-03",
+      "sub-04",
+      "sub-09"
+    ],
+    "validation": [
+      "sub-06",
+      "sub-08"
+    ],
+    "test": [
+      "sub-05",
+      "sub-07"
+    ]
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "checks": [
+    "Finite real epochs; two nonempty classes",
+    "Train, validation and test subjects are disjoint in every fold",
+    "Every trial predicted once per model; labels and metrics independently recomputed",
+    "Majority baseline yields AUC=0.5 and balanced accuracy=0.5",
+    "Integrated-gradients completeness: maximum stabilized relative error 0.00001"
+  ]
+}
