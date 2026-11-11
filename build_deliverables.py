@@ -361,7 +361,7 @@ def build_slides(m, avg, std, best, best_ml, conclusion, diff, attr_text, peak):
          'We provide the code, exact splits, data hashes, predictions and a result-integrity checker. '
          'Our next steps are the full cohort, repeated seeds and negative controls. Thank you. We are ready for questions.', 55, MEMBERS[4][0])]
 
-def make_pptx(slides):
+def make_pptx(slides, project_label='Nencki-Symfonia EEG pilot'):
     prs = Presentation(); prs.slide_width = Inches(13.333); prs.slide_height = Inches(7.5)
     navy = RGBColor.from_string('10243A'); orange = RGBColor.from_string('DC7633')
     def textbox(slide, x, y, w, h, text, size=22, color=navy, bold=False):
@@ -386,7 +386,7 @@ def make_pptx(slides):
             slide.shapes.add_picture(str(RESULTS / figure), Inches((13.333-pw)/2), Inches(2.02), width=Inches(pw), height=Inches(ph))
         else:
             textbox(slide, .8, 1.65, 11.7, 4.9, '\n'.join('• ' + b for b in bullets), 25)
-        textbox(slide, .6, 7.04, 11.5, .3, f'Nencki-Symfonia EEG pilot  •  {speaker}  •  {seconds} s', 11)
+        textbox(slide, .6, 7.04, 11.5, .3, f'{project_label}  •  {speaker}  •  {seconds} s', 11)
         textbox(slide, 12.15, 7.0, .6, .3, f'{i:02d}', 12, orange)
         slide.notes_slide.notes_text_frame.text = notes
     # Two backup slides carry sources and the explicitly provisional allocation.

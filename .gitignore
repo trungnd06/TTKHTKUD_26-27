@@ -10,6 +10,7 @@ __pycache__/
 *.zip
 /slide_extract/
 /deliverables/preview/
+/deliverables_full/preview/
 /neuroimaging_EEG_20261006.pdf
 .env
 .env.*

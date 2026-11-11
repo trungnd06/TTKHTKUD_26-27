@@ -10,7 +10,9 @@ def main():
     files = []
     for pattern in ['*.py', 'requirements*.txt', 'README.md', '.gitignore', '.gitattributes',
                     'deliverables/*', 'results/*', 'results/models/*',
-                    'data/epochs.npz', 'data/*.json', 'data/README.md', 'docs/*']:
+                    'data/epochs.npz', 'data/*.json', 'data/README.md', 'docs/*', 'kaggle/*',
+                    'deliverables_full/*', 'results_full/*', 'results_full/models/*',
+                    'results_full/cached_folds/*']:
         files.extend(p for p in root.glob(pattern) if p.is_file())
     with zipfile.ZipFile(dest, 'w', zipfile.ZIP_DEFLATED, compresslevel=6) as archive:
         for path in sorted(set(files)):
