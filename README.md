@@ -3,6 +3,10 @@
 Miniproject theo trang **139–145** của `neuroimaging_EEG_20261006.pdf`.
 Nghiên cứu trên **dữ liệu EEG thật**, tập con 8 người của Nencki–Symfonia / OpenNeuro ds004621.
 
+**Chạy toàn bộ cohort trên Kaggle:** xem [thư mục kaggle/](kaggle/README.md), gồm hai notebook
+tải/tiền xử lý tất cả 42 người và huấn luyện CNN bằng GPU. Kết quả/report ở thư mục gốc này
+vẫn là pilot 8 người; notebook Kaggle tạo kết quả mới và ghi rõ các loại trừ chất lượng.
+
 **Hai class:** `0 = Standard/Frequent (S5)`, `1 = Target (S6)`. Không dùng distractor S7.
 
 | Thành viên | MSSV |
