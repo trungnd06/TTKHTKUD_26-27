@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "pdf_pages": 10,
+  "main_slides": 10,
+  "backup_slides": 2,
+  "planned_presentation_seconds": 540,
+  "subjects": 42,
+  "trials": 24200,
+  "checks": [
+    "Verified measured values and Vietnamese names in PDF",
+    "DOCX/PPTX archive integrity",
+    "All slide shapes within canvas",
+    "All main slides have notes",
+    "Pilot-specific slide descriptions removed"
+  ]
+}

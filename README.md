@@ -3,6 +3,14 @@
 Miniproject theo trang **139–145** của `neuroimaging_EEG_20261006.pdf`.
 Nghiên cứu trên **dữ liệu EEG thật**, tập con 8 người của Nencki–Symfonia / OpenNeuro ds004621.
 
+**Đã có kết quả full cohort trên Kaggle:** đủ **42 người**, **24.200 trial**, 5 outer folds theo người.
+CNN đạt ROC-AUC **0,936 ± 0,031**, balanced accuracy **0,866 ± 0,039**; SVM có raw accuracy cao hơn CNN.
+Xem [báo cáo full PDF](deliverables_full/Report_EN.pdf), [PowerPoint full](deliverables_full/Presentation_EN.pptx),
+[báo cáo full dạng Markdown](deliverables_full/Report_EN.md).
+File dự đoán từng trial, checkpoint và metadata chi tiết của lần chạy full được giữ cục bộ trong `results_full/`.
+Report trong `deliverables_full/` là bản cập nhật. `deliverables/` và các lệnh chạy mặc định ở thư mục gốc
+vẫn thuộc pilot 8 người; để chạy lại full dùng `kaggle/`.
+
 **Chạy toàn bộ cohort trên Kaggle:** xem [thư mục kaggle/](kaggle/README.md), gồm hai notebook
 tải/tiền xử lý tất cả 42 người và huấn luyện CNN bằng GPU. Kết quả/report ở thư mục gốc này
 vẫn là pilot 8 người; notebook Kaggle tạo kết quả mới và ghi rõ các loại trừ chất lượng.
