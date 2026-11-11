@@ -1,0 +1,8 @@
+# Keep Kaggle's existing CUDA-enabled torch; do not install the root Windows lock.
+mne>=1.8,<2
+numpy>=1.26,<3
+scipy>=1.11,<2
+pandas>=2,<4
+scikit-learn>=1.4,<2
+matplotlib>=3.8,<4
+requests>=2.31,<3

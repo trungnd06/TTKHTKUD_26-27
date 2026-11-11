@@ -1,0 +1,6 @@
+/work/
+/results_full/
+/processed/
+/.raw-cache/
+__pycache__/
+*.partial
